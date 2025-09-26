@@ -21,14 +21,5 @@ The **Flash Taxi Website** is a platform designed and developed to make ordering
 - Ensure a smooth and engaging user experience  
 - Build a platform that is both functional and visually appealing  
 
-## Getting Started  
 
-### Prerequisites  
-To run this project locally, you only need a web browser.  
-For best results, use **Live Server** (VS Code extension) or any local server.  
-
-### Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/blinasopjani/flash-taxi.git
 
